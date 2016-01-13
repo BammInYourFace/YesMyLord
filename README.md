@@ -6,3 +6,4 @@ So everybody can use the UI they prefer e.g. Graphical UI, command prompt, Brows
 
 Used:
 - SFML 2.3.2 
+- NodeJS 4.2.4
